@@ -1,6 +1,6 @@
 # 은성 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-
+<span style="font-family: 'Pretendard';">이 텍스트는 프리텐다드 폰트로 표시됩니다.</span>
 </br>
 
 ## :pushpin: Intro
