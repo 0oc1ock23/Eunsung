@@ -1,6 +1,12 @@
+| 장서영 | 김은성 | 손지우 | 임형종 |
+|------|------|------|------|
+| <img src="https://github.com/0oc1ock23/Eunsung/assets/145406223/90bcd2a0-0912-4a18-b238-97551dd27ed9.png"  width="170" height="170"/> | <img src="https://github.com/0oc1ock23/Eunsung/assets/145406223/3dcfdd0e-da48-42d5-95b5-b0bfe1ae93ba.png"  width="150" height="150"/> | <img src="https://github.com/0oc1ock23/Eunsung/assets/145406223/bb3ea48d-9e73-45a4-8807-e04d30cad759.png"  width="150" height="150"/> | <img src="https://github.com/0oc1ock23/Eunsung/assets/145406223/93f2a462-ffa8-4606-be58-15b7d0476bd2.png"  width="110" height="150"/>
+  |     |      |      |
+|   |      |      |      |
+|   |      |      |      |
+
 # 은성 포트폴리오
 >캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-<span style="font-family: 'Pretendard';">이 텍스트는 프리텐다드 폰트로 표시됩니다.</span>
 </br>
 
 ## :pushpin: Intro
